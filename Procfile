@@ -1,1 +1,1 @@
-web : index.php
+web : home.html
